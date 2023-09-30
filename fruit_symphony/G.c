@@ -1,12 +1,7 @@
 //
 // Created by rituparn on 29.09.23.
 //
-//
-// Created by rituparn on 29.09.23.
-//
 #include <stdio.h>
-#include <math.h>
-
 int main() {
     float x, y;
 
